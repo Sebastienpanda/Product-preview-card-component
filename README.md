@@ -13,8 +13,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Solution Url](https://www.frontendmentor.io/solutions/social-links-profile-L2ytmryAYL)
-- Live Site URL: [Live site](https://sebastienpanda.github.io/Social-links-profile/)
+- Solution URL: [Solution Url](https://www.frontendmentor.io/solutions/product-preview-card-component-TQf2Y4_WLH)
+- Live Site URL: [Live site](https://sebastienpanda.github.io/Product-preview-card-component/)
 
 ## Author
 
